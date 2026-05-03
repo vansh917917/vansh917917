@@ -1,3 +1,5 @@
+
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building full-stack projects, including a stock market simulation system and a student resource platform.<br><br>👯 I’m looking to collaborate on  <br>Web development, backend systems, and real-world problem-solving tech projects.<br><br>🤝 I’m looking for help with  <br>Scaling applications, system design, and writing production-level clean code.<br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms, JavaScript (deep dive), backend development, and system design fundamentals.<br><br>💬 Ask me about  <br>Python, C++, frontend development, problem-solving, and how I approach building projects from scratch.<br><br>⚡ Fun fact  <br>I aim to build elite-level tech skills and create something impactful enough to stand out globally.
 
