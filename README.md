@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vansh%20Gupta&fontSize=50&fontAlign=50&fontAlignY=40)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=80&lines=Vansh+Gupta" />
 </p>
