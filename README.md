@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=80&lines=Vansh+Gupta;AI+Engineer+in+Progress;Full+Stack+Developer;Building+Real-World+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=80&lines=Vansh+Gupta" />
 </p>
 
 # 💫 About Me:
