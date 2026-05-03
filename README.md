@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vansh%20Gupta&fontSize=50&fontAlign=50&fontAlignY=40)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=80&lines=Vansh+Gupta" />
-</p>
-
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building full-stack projects, including a stock market simulation system and a student resource platform.<br><br>👯 I’m looking to collaborate on  <br>Web development, backend systems, and real-world problem-solving tech projects.<br><br>🤝 I’m looking for help with  <br>Scaling applications, system design, and writing production-level clean code.<br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms, JavaScript (deep dive), backend development, and system design fundamentals.<br><br>💬 Ask me about  <br>Python, C++, frontend development, problem-solving, and how I approach building projects from scratch.<br><br>⚡ Fun fact  <br>I aim to build elite-level tech skills and create something impactful enough to stand out globally.
 
