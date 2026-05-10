@@ -1,4 +1,3 @@
-<!-- 🔥 PREMIUM HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=240&section=header&text=Vansh%20Gupta&fontSize=55&fontAlign=50&fontAlignY=35&fontColor=EAEAEA&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlign=50&descAlignY=60&descColor=D6F0FF)
 
 <!-- ⚡ TYPING ANIMATION -->
