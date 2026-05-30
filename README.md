@@ -10,7 +10,7 @@
  
 Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
  
-I build production-level systems, not toy projects. [NIEdge](https://niedge.vercel.app) is a student academic resource platform with real traction — **800+ users, 20K+ views**. [AlphaEngineX](https://alphaenginex.vercel.app) *(currently under development)* is a full-stack stock market simulator engineered for scale — atomic MongoDB transactions, UUIDv4 idempotency for race-condition-safe order processing, demand-driven volatility modeling across 15 companies in 5 sectors, APScheduler-based 30s price updates, per-user rate limiting, admin audit trails, and a 7-collection schema designed for production.
+I build production-level systems, not toy projects. [NIEdge](https://niedge.vercel.app) is a student academic resource platform with real traction with **800+ total users, 20K+ views**. [AlphaEngineX](https://alphaenginex.vercel.app) *(currently under development)* is a full-stack stock market simulator engineered for scale with atomic MongoDB transactions, UUIDv4 idempotency for race-condition-safe order processing, demand-driven volatility modeling across 15 companies in 5 sectors, APScheduler-based 30s price updates, per-user rate limiting, admin audit trails, and a 7-collection schema designed for production.
  
 My focus right now: backend architecture depth, real-time systems, and AI integration.
  
@@ -20,35 +20,29 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 <p align="center">
 
-<!-- Core Languages -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<!-- Web & Frontend -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!-- Backend -->
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-<!-- Databases -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- DevOps & Tools -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- AI/ML -->
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
