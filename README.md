@@ -96,4 +96,3 @@ My focus right now: backend architecture depth, real-time systems, AI integratio
 
 </p>
 
----
