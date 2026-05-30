@@ -19,6 +19,10 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 ## 💻 Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react,vite,nodejs,express,fastapi,flask,mongodb,mysql,redis,postgres,docker,git,github,postman,firebase,vercel&perline=11&theme=dark" />
+</p>
+
+<p align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -81,6 +85,14 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/vansh917917/vansh917917/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -100,3 +112,6 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 </p>
 
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=120&section=footer)
