@@ -7,13 +7,13 @@
 ---
 
 ## 💫 About Me
-
+ 
 Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
-
-I build production-level systems, not some random vague projects. [NIEdge](https://niedge.vercel.app) with a total of **800+ users with 20K+ views**.
-
-My focus right now: backend architecture depth, real-time systems, AI integration.
-
+ 
+I build production-level systems, not toy projects. [NIEdge](https://niedge.vercel.app) is a student academic resource platform with real traction — **800+ users, 20K+ views**. [AlphaEngineX](https://alphaenginex.vercel.app) *(currently under development)* is a full-stack stock market simulator engineered for scale — atomic MongoDB transactions, UUIDv4 idempotency for race-condition-safe order processing, demand-driven volatility modeling across 15 companies in 5 sectors, APScheduler-based 30s price updates, per-user rate limiting, admin audit trails, and a 7-collection schema designed for production.
+ 
+My focus right now: backend architecture depth, real-time systems, and AI integration.
+ 
 ---
 
 ## 💻 Tech Stack
