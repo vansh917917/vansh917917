@@ -97,5 +97,3 @@ My focus right now: backend architecture depth, real-time systems, AI integratio
 </p>
 
 ---
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=120&section=footer)
