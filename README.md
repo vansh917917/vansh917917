@@ -91,7 +91,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 ---
