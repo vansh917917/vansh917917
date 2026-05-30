@@ -7,13 +7,87 @@
 
 ---
 
-# 💫 About Me:
+## 💫 About Me
 
-I’m an engineering student focused on building real-world systems and pushing toward elite-level technical depth.  
+Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
 
-Currently working on full-stack applications, including a stock market simulation system and a student resource platform. My focus is on backend strength, scalable system design, and writing production-level clean code.  
+I build production-level systems — not toy projects. [NIEdge](https://niedge.vercel.app) serves **800+ users with 20K+ views**. [AlphaEngineX](https://github.com/vansh917917) is a full-stack stock market simulator with atomic MongoDB transactions, demand-driven volatility modeling across 15 companies, and a 7-collection schema built for scale.
 
-I’m actively learning Data Structures & Algorithms, deep-diving into JavaScript, and strengthening backend architecture and system design.  
+My focus right now: backend architecture depth, real-time systems, AI integration, and aggressive DSA preparation targeting 400+ problems by end of 3rd year.
+
+I'm actively seeking **internships** in Full Stack / Backend Engineering / AI-ML — remote or Bengaluru-based.
+
+---
+
+## 🔨 Currently Building
+
+- **Real-Time Intelligent Developer Platform** — collaborative code editor + AI pair programming (Groq API + local LLaMA fallback) + Docker-based code execution sandbox + security analysis engine. Stack: Node.js, WebSockets, Redis Pub/Sub, PostgreSQL, Docker, Next.js
+- Grinding DSA — targeting **180 LC problems by Aug 2026**, 420+ by placements
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **NIEdge** | Student academic resource platform — 800+ users, 20K+ views | React, Firebase | [niedge.vercel.app](https://niedge.vercel.app) |
+| **AlphaEngineX** | Stock market simulator with real-time pricing engine, atomic transactions, UUIDv4 idempotency, APScheduler-based 30s price updates | React, Flask, MongoDB Atlas, Firebase Auth | [Live](https://github.com/vansh917917) |
+| **cgpaCalcAI** | AI-powered CGPA calculator with Gemini API integration | React, Gemini API, Firebase | [cgpacalcai.vercel.app](https://cgpacalcai.vercel.app) |
+| **CrediGraph** | AI-powered counterparty credit risk prediction using ensemble ML (XGBoost, RF, LR) + GNN across 4 risk dimensions | Python, XGBoost, SHAP, GNN | Hackathon |
+| **CLI Auth System** | Full-featured CLI authentication system with OTP-based password reset | Python | [GitHub](https://github.com/vansh917917) |
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<!-- Core Languages -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<!-- Web & Frontend -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<!-- Backend -->
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- DevOps & Tools -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- AI/ML -->
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh917917&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh917917&theme=tokyonight&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vansh917917&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -25,7 +99,15 @@ I’m actively learning Data Structures & Algorithms, deep-diving into JavaScrip
 
 ---
 
-## 🌐 Socials:
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## 🌐 Socials
 
 <p align="center">
 
@@ -38,45 +120,4 @@ I’m actively learning Data Structures & Algorithms, deep-diving into JavaScrip
 
 ---
 
-# 💻 Tech Stack:
-
-<p align="center">
-
-<!-- Core -->
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<!-- Web -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<!-- Backend -->
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-
-<!-- Python Backend -->
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-<!-- Databases -->
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=120&section=footer)
