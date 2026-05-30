@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=240&section=header&text=Vansh%20Gupta&fontSize=55&fontAlign=50&fontAlignY=35&fontColor=EAEAEA&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlign=50&descAlignY=60&descColor=D6F0FF)
 
-<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Building+Real-World+Systems;Focused+on+AI+%26+Backend" />
 </p>
@@ -11,30 +10,9 @@
 
 Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
 
-I build production-level systems — not toy projects. [NIEdge](https://niedge.vercel.app) serves **800+ users with 20K+ views**. [AlphaEngineX](https://github.com/vansh917917) is a full-stack stock market simulator with atomic MongoDB transactions, demand-driven volatility modeling across 15 companies, and a 7-collection schema built for scale.
+I build production-level systems, not some random vague projects. [NIEdge](https://niedge.vercel.app) with a total of **800+ users with 20K+ views**.
 
-My focus right now: backend architecture depth, real-time systems, AI integration, and aggressive DSA preparation targeting 400+ problems by end of 3rd year.
-
-I'm actively seeking **internships** in Full Stack / Backend Engineering / AI-ML — remote or Bengaluru-based.
-
----
-
-## 🔨 Currently Building
-
-- **Real-Time Intelligent Developer Platform** — collaborative code editor + AI pair programming (Groq API + local LLaMA fallback) + Docker-based code execution sandbox + security analysis engine. Stack: Node.js, WebSockets, Redis Pub/Sub, PostgreSQL, Docker, Next.js
-- Grinding DSA — targeting **180 LC problems by Aug 2026**, 420+ by placements
-
----
-
-## 🚀 Projects
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **NIEdge** | Student academic resource platform — 800+ users, 20K+ views | React, Firebase | [niedge.vercel.app](https://niedge.vercel.app) |
-| **AlphaEngineX** | Stock market simulator with real-time pricing engine, atomic transactions, UUIDv4 idempotency, APScheduler-based 30s price updates | React, Flask, MongoDB Atlas, Firebase Auth | [Live](https://github.com/vansh917917) |
-| **cgpaCalcAI** | AI-powered CGPA calculator with Gemini API integration | React, Gemini API, Firebase | [cgpacalcai.vercel.app](https://cgpacalcai.vercel.app) |
-| **CrediGraph** | AI-powered counterparty credit risk prediction using ensemble ML (XGBoost, RF, LR) + GNN across 4 risk dimensions | Python, XGBoost, SHAP, GNN | Hackathon |
-| **CLI Auth System** | Full-featured CLI authentication system with OTP-based password reset | Python | [GitHub](https://github.com/vansh917917) |
+My focus right now: backend architecture depth, real-time systems, AI integration.
 
 ---
 
