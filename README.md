@@ -109,4 +109,4 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:6a11cb&height=180&section=footer&text=Let's%20Build%20Something%20Real&fontSize=28&fontAlign=50&fontAlignY=65&fontColor=D6F0FF&desc=Open%20to%20Internships%20%7C%20Collaborations%20%7C%20vanshg917@gmail.com&descAlign=50&descAlignY=85&descSize=14&descColor=8ab4d4)
