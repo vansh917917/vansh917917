@@ -64,7 +64,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 
-<!--## -- GitHub Stats
+<!--## --  GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vansh917917&theme=tokyonight&hide_border=true" />
