@@ -6,7 +6,7 @@
 
 ---
 
-## -> About Me
+## --> About Me
  
 Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
  
@@ -16,7 +16,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
  
 ---
 
-## -> Tech Stack
+## --> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react,vite,nodejs,express,fastapi,flask,mongodb,mysql,redis,postgres,docker,git,github,postman,firebase,vercel&perline=11&theme=dark" />
@@ -64,7 +64,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 
-<!--## - GitHub Stats
+<!--## -- GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vansh917917&theme=tokyonight&hide_border=true" />
@@ -72,7 +72,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 -->
-## -> Contribution Graph
+## --> Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh917917&theme=github-compact&hide_border=true" />
@@ -88,7 +88,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 -->
-## -> Socials
+## --> Socials
 
 <p align="center">
 
