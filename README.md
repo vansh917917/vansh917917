@@ -6,7 +6,7 @@
 
 ---
 
-## --> About Me 
+## --> About Me
  
 Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
  
