@@ -88,14 +88,6 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
 ## 🌐 Socials
 
 <p align="center">
@@ -106,8 +98,3 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshg917@gmail.com)
 
 </p>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:6a11cb&height=180&section=footer&text=Let's%20Build%20Something%20Real&fontSize=28&fontAlign=50&fontAlignY=65&fontColor=D6F0FF&desc=Open%20to%20Internships%20%7C%20Collaborations%20%7C%20vanshg917@gmail.com&descAlign=50&descAlignY=85&descSize=14&descColor=8ab4d4)
-
