@@ -80,7 +80,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 
-<!--## Contribution Snake
+<!--##Contribution Snake
 
 <p align="center">
   <img src="https://github.com/vansh917917/vansh917917/blob/output/github-contribution-grid-snake-dark.svg" />
