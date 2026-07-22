@@ -49,6 +49,12 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
   </tr>
 </table>
 
+<br/>
+
+<p align="center">
+  <img src="architecture.svg" alt="Systems Architecture Map" width="100%" />
+</p>
+
 ---
 
 ## --> Engineering Stack
