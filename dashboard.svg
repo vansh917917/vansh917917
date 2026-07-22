@@ -123,7 +123,7 @@
     <circle cx="80" cy="190" r="2" class="ping" style="animation-delay: 0.5s;" />
     
     <!-- Coordinates readout -->
-    <text x="100" y="255" text-anchor="middle" class="terminal-header" style="font-size: 8px;">MYSURU // 12.2958 N / 76.6394 E</text>
+    <text x="100" y="255" text-anchor="middle" class="terminal-header" style="font-size: 8px;">LOC: 12.2958 N / 76.6394 E</text>
   </g>
 
   <!-- Divider Line -->
