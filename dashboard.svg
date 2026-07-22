@@ -133,7 +133,7 @@
   <g transform="translate(230, 45)">
     <!-- Terminal Lines -->
     <text x="10" y="25" class="terminal-text"><tspan class="cyan-text">$</tspan> whoami</text>
-    <text x="10" y="50" class="terminal-text">vansh_gupta <tspan class="cyan-text">[AI &amp; Systems Engineer]</tspan></text>
+    <text x="10" y="50" class="terminal-text">Vansh <tspan class="cyan-text">[AI &amp; Systems Engineer]</tspan></text>
     
     <text x="10" y="85" class="terminal-text"><tspan class="cyan-text">$</tspan> cat active_cores.json</text>
     <text x="10" y="110" class="terminal-text">{</text>
