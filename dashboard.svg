@@ -130,20 +130,20 @@
   <line x1="210" y1="35" x2="210" y2="315" stroke="#36bcf7" stroke-width="1" opacity="0.3" />
 
   <!-- Terminal Output Content (Right Panel) -->
-  <g transform="translate(230, 45)">
+  <g transform="translate(230, 40)">
     <!-- Terminal Lines -->
     <text x="10" y="25" class="terminal-text"><tspan class="cyan-text">$</tspan> whoami</text>
     <text x="10" y="50" class="terminal-text">Vansh</text>
     
-    <text x="10" y="85" class="terminal-text"><tspan class="cyan-text">$</tspan> cat active_cores.json</text>
-    <text x="10" y="110" class="terminal-text">{</text>
-    <text x="30" y="130" class="terminal-text">"NIEdge": <tspan class="cyan-text">"1.1K+ users | 27K+ views [ONLINE]"</tspan>,</text>
-    <text x="30" y="150" class="terminal-text">"AlphaEngineX": <tspan class="cyan-text">"Concurrent Volatility Engine [LOADED]"</tspan></text>
-    <text x="10" y="170" class="terminal-text">}</text>
+    <text x="10" y="80" class="terminal-text"><tspan class="cyan-text">$</tspan> cat active_cores.json</text>
+    <text x="10" y="105" class="terminal-text">{</text>
+    <text x="30" y="125" class="terminal-text">"NIEdge": <tspan class="cyan-text">"1.1K+ users | 27K+ views [ONLINE]"</tspan>,</text>
+    <text x="30" y="145" class="terminal-text">"AlphaEngineX": <tspan class="cyan-text">"Concurrent Volatility Engine [LOADED]"</tspan></text>
+    <text x="10" y="165" class="terminal-text">}</text>
 
-    <text x="10" y="205" class="terminal-text"><tspan class="cyan-text">$</tspan> status --check</text>
-    <text x="10" y="230" class="terminal-text">Concurrency: OK // UUIDv4 Idempotency: ACTIVE</text>
+    <text x="10" y="195" class="terminal-text"><tspan class="cyan-text">$</tspan> status --check</text>
+    <text x="10" y="220" class="terminal-text">Concurrency: OK // UUIDv4 Idempotency: ACTIVE</text>
     
-    <text x="10" y="265" class="terminal-text"><tspan class="cyan-text">$</tspan> <tspan class="cursor">█</tspan></text>
+    <text x="10" y="250" class="terminal-text"><tspan class="cyan-text">$</tspan> <tspan class="cursor">█</tspan></text>
   </g>
 </svg>
