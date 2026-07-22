@@ -51,30 +51,6 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ---
 
-## --> Current Focus
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Currently Building</h4>
-      <ul>
-        <li><b>AlphaEngineX:</b> Scalable transaction pipelines.</li>
-        <li><b>NIEdge:</b> Integrating telemetry & usage analytics.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 Currently Learning</h4>
-      <ul>
-        <li>Advanced DSA in <b>Java</b>.</li>
-        <li><b>System Design:</b> Distributed cache invalidation.</li>
-        <li><b>AI Engineering:</b> Multi-agent orchestration.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## --> Engineering Stack
 
 <!-- Languages -->
