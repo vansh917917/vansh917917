@@ -4,19 +4,12 @@
 
 ## --> About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>👋 Hello, I'm Vansh</h3>
-      <p><i>I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.</i></p>
-      <br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=480&height=40&lines=Building+Systems+at+Scale;Backend+Architecture+%26+Databases" />
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="Vansh_circle.png" width="180" alt="Vansh Gupta" />
-    </td>
-  </tr>
-</table>
+<h3>👋 Hello, I'm Vansh</h3>
+<p><i>I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.</i></p>
+<br/>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=480&height=40&lines=Building+Systems+at+Scale;Backend+Architecture+%26+Databases" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
