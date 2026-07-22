@@ -106,6 +106,23 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ## --> Contact & Discussion
 
-<p align="center">
-  <img src="contact.svg" alt="Contact &amp; Discussion Dashboard" width="100%" />
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td width="65%" valign="middle">
+      <img src="connection_status.svg" alt="Connection Status" width="100%" />
+    </td>
+    <td width="35%" align="right" valign="middle">
+      <a href="https://linkedin.com/in/vansh917" target="_blank">
+        <img src="linkedin_btn.svg" alt="LinkedIn" width="220" />
+      </a>
+      <br/><br/>
+      <a href="https://instagram.com/vansh___917" target="_blank">
+        <img src="instagram_btn.svg" alt="Instagram" width="220" />
+      </a>
+      <br/><br/>
+      <a href="mailto:vanshg917@gmail.com" target="_blank">
+        <img src="email_btn.svg" alt="Email" width="220" />
+      </a>
+    </td>
+  </tr>
+</table>
