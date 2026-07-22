@@ -106,33 +106,6 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 ## --> Contact & Discussion
 
-<table width="100%" border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h4>💡 Always interested in discussing:</h4>
-      <ul>
-        <li>• AI Systems & Agentic Workflows</li>
-        <li>• High-Concurrency Backend Architectures</li>
-        <li>• Distributed Databases & Caching Strategies</li>
-        <li>• Open Source Contributions</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <p>
-        <a href="https://linkedin.com/in/vansh917">
-          <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=36bcf7" alt="LinkedIn" />
-        </a>
-      </p>
-      <p>
-        <a href="https://instagram.com/vansh___917">
-          <img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=36bcf7" alt="Instagram" />
-        </a>
-      </p>
-      <p>
-        <a href="mailto:vanshg917@gmail.com">
-          <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=36bcf7" alt="Email" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="contact.svg" alt="Contact &amp; Discussion Dashboard" width="100%" />
+</p>

@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 120" width="100%" height="100%">
+  <style>
+    @keyframes pulse {
+      0%, 100% { opacity: 0.8; }
+      50% { opacity: 0.3; }
+    }
+    @keyframes border-glow {
+      0%, 100% { filter: drop-shadow(0px 0px 3px rgba(54, 188, 247, 0.4)); }
+      50% { filter: drop-shadow(0px 0px 8px rgba(54, 188, 247, 0.7)); }
+    }
+    @keyframes ping-line {
+      0% { stroke-dashoffset: 100; }
+      100% { stroke-dashoffset: 0; }
+    }
+    .neon-border {
+      stroke: #36bcf7;
+      stroke-width: 1.5;
+      animation: border-glow 4s ease-in-out infinite;
+    }
+    .grid {
+      stroke: #36bcf7;
+      stroke-width: 0.5;
+      opacity: 0.08;
+    }
+    .terminal-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #eaeaea;
+    }
+    .terminal-header {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 10px;
+      fill: #36bcf7;
+      letter-spacing: 2px;
+    }
+    .btn-frame {
+      fill: #0a0c10;
+      stroke: #36bcf7;
+      stroke-width: 1;
+      transition: all 0.3s ease;
+    }
+    .btn-group:hover .btn-frame {
+      fill: #36bcf7;
+      stroke: #36bcf7;
+      filter: drop-shadow(0px 0px 8px rgba(54, 188, 247, 0.6));
+      cursor: pointer;
+    }
+    .btn-group:hover .btn-text {
+      fill: #0a0c10;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .btn-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 11px;
+      fill: #36bcf7;
+      letter-spacing: 1px;
+      transition: all 0.3s ease;
+    }
+    .connection-line {
+      stroke: #36bcf7;
+      stroke-width: 1;
+      stroke-dasharray: 5 5;
+      animation: ping-line 5s linear infinite;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0c10" />
+      <stop offset="100%" stop-color="#121620" />
+    </linearGradient>
+    <pattern id="grid-pattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" class="grid" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="830" height="120" rx="8" fill="url(#bg-gradient)" />
+  <rect width="830" height="120" rx="8" fill="url(#grid-pattern)" />
+
+  <!-- Frame -->
+  <rect x="5" y="5" width="820" height="110" rx="6" fill="none" class="neon-border" />
+
+  <!-- Left HUD Panel: Signal Info -->
+  <g transform="translate(25, 0)">
+    <!-- Signal nodes -->
+    <circle cx="20" cy="60" r="4" fill="#36bcf7" style="animation: pulse 1.5s infinite;" />
+    <circle cx="20" cy="60" r="10" fill="none" stroke="#36bcf7" stroke-width="0.5" opacity="0.4" style="animation: pulse 1.5s infinite;" />
+    
+    <path d="M 30 60 Q 55 40 80 60 T 130 60" fill="none" class="connection-line" />
+    
+    <circle cx="130" cy="60" r="4" fill="#36bcf7" style="animation: pulse 1.5s infinite; animation-delay: 0.75s;" />
+    <circle cx="130" cy="60" r="10" fill="none" stroke="#36bcf7" stroke-width="0.5" opacity="0.4" style="animation: pulse 1.5s infinite; animation-delay: 0.75s;" />
+
+    <text x="75" y="40" text-anchor="middle" class="terminal-header" style="font-size: 8px;">PING: 24MS</text>
+    <text x="75" y="90" text-anchor="middle" class="terminal-header" style="font-size: 8px; fill: #27c93f;">COMMS_LINK: OK</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="190" y1="15" x2="190" y2="105" stroke="#36bcf7" stroke-width="1" opacity="0.3" />
+
+  <!-- Center Text -->
+  <g transform="translate(210, 0)">
+    <text x="10" y="50" class="terminal-text" style="font-weight: bold;">&gt; INITIATE DISCUSSIONS ON:</text>
+    <text x="10" y="75" class="terminal-text" style="font-size: 11px; opacity: 0.85;">AI Systems • Scalable Backends • Caching • Open Source</text>
+  </g>
+
+  <!-- Divider Line 2 -->
+  <line x1="565" y1="15" x2="565" y2="105" stroke="#36bcf7" stroke-width="1" opacity="0.3" />
+
+  <!-- Interactive Social Buttons (Right Side) -->
+  <g transform="translate(585, 0)">
+    <!-- LinkedIn Button -->
+    <a href="https://linkedin.com/in/vansh917" target="_blank" class="btn-group">
+      <rect x="0" y="15" width="220" height="26" rx="4" class="btn-frame" />
+      <text x="110" y="32" text-anchor="middle" class="btn-text">CONNECT VIA LINKEDIN</text>
+    </a>
+
+    <!-- Instagram Button -->
+    <a href="https://instagram.com/vansh___917" target="_blank" class="btn-group">
+      <rect x="0" y="47" width="220" height="26" rx="4" class="btn-frame" />
+      <text x="110" y="64" text-anchor="middle" class="btn-text">DM ON INSTAGRAM</text>
+    </a>
+
+    <!-- Email Button -->
+    <a href="mailto:vanshg917@gmail.com" target="_blank" class="btn-group">
+      <rect x="0" y="79" width="220" height="26" rx="4" class="btn-frame" />
+      <text x="110" y="96" text-anchor="middle" class="btn-text">TRANSMIT EMAIL</text>
+    </a>
+  </g>
+</svg>
