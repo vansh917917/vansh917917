@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:36bcf7,100:1e1e2e&height=180&section=header&text=Vansh%20Gupta&fontSize=50&fontAlign=50&fontAlignY=38&fontColor=EAEAEA&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlign=50&descAlignY=62&descColor=36bcf7" alt="Vansh Gupta Header" />
+  <img src="dashboard.svg" alt="Vansh's Systems Dashboard" width="100%" />
 </p>
 
 ## --> About Me
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&height=60&lines=%3E_whoami;%3E+Vansh+Gupta;%3E+AI+and+Systems+Builder" />
-</p>
-
-<p><i>I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.</i></p>
+I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
