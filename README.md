@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:36bcf7,100:1e1e2e&height=180&section=header&text=Vansh%20Gupta&fontSize=50&fontAlign=50&fontAlignY=38&fontColor=EAEAEA&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlign=50&descAlignY=62&descColor=36bcf7" alt="Vansh Gupta Header" />
+</p>
+
+## --> About Me
+
 <table border="0" width="100%">
   <tr>
     <td width="70%" valign="top">
-      <h1>👋 Hello, I'm Vansh Gupta</h1>
+      <h3>👋 Hello, I'm Vansh</h3>
       <p><i>I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.</i></p>
       <br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=480&height=40&lines=Building+Systems+at+Scale;Backend+Architecture+%26+Databases" />
@@ -12,9 +18,13 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
 ---
 
-### ⚙️ Engineering Principles
+## --> Engineering Principles
 
 *   **Production over prototypes** — Building software designed to run and scale in the real world.
 *   **Scalability first** — Designing database and caching layers that handle high concurrency.
@@ -24,7 +34,7 @@
 
 ---
 
-### 🛠️ Featured Systems
+## --> Featured Systems
 
 <table width="100%" border="0">
   <tr>
@@ -53,7 +63,7 @@
 
 ---
 
-### 🗺️ Current Focus & Roadmap
+## --> Current Focus
 
 <table width="100%">
   <tr>
@@ -77,7 +87,19 @@
 
 ---
 
-### 🛠️ Engineering Stack
+## --> Live Activity Logs
+
+<!-- START_SECTION:activity -->
+* ⚡ `Jul 22, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
+* ⚡ `Jul 21, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
+* ⚡ `Jul 15, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
+* ⚡ `Jul 10, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
+* ⚡ `Jun 28, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
+<!-- END_SECTION:activity -->
+
+---
+
+## --> Engineering Stack
 
 <!-- Languages -->
 <p>
@@ -122,7 +144,7 @@
 
 ---
 
-### 📊 System Performance & Metrics
+## --> Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vansh917917&show_icons=true&theme=tokyonight&title_color=36bcf7&icon_color=36bcf7&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Vansh's GitHub Stats" width="48%" />
@@ -135,7 +157,7 @@
 
 ---
 
-### 📞 Contact & Discussion
+## --> Contact & Discussion
 
 <table width="100%" border="0">
   <tr>
