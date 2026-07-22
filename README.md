@@ -87,18 +87,6 @@
 
 ---
 
-## --> Live Activity Logs
-
-<!-- START_SECTION:activity -->
-* ⚡ `Jul 22, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
-* ⚡ `Jul 21, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
-* ⚡ `Jul 15, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
-* ⚡ `Jul 10, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
-* ⚡ `Jun 28, 2026` - Pushed commits to `main` branch on **[vansh917917](https://github.com/vansh917917/vansh917917)**
-<!-- END_SECTION:activity -->
-
----
-
 ## --> Engineering Stack
 
 <!-- Languages -->
