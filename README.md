@@ -4,12 +4,11 @@
 
 ## --> About Me
 
-<h3>👋 Hello, I'm Vansh</h3>
-<p><i>I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.</i></p>
-<br/>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=480&height=40&lines=Building+Systems+at+Scale;Backend+Architecture+%26+Databases" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&height=60&lines=%3E_whoami;%3E+Vansh+Gupta;%3E+AI+and+Systems+Builder" />
 </p>
+
+<p><i>I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.</i></p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vansh917917&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
