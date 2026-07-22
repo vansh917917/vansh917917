@@ -99,11 +99,6 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 ## --> Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh917917&show_icons=true&theme=tokyonight&title_color=36bcf7&icon_color=36bcf7&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Vansh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh917917&layout=compact&theme=tokyonight&title_color=36bcf7&icon_color=36bcf7&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh917917&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=36bcf7&point=36bcf7&area=true" width="97%" />
 </p>
 
