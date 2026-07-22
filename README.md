@@ -1,101 +1,169 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=240&section=header&text=Vansh%20Gupta&fontSize=55&fontAlign=50&fontAlignY=35&fontColor=EAEAEA&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlign=50&descAlignY=60&descColor=D6F0FF)
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h1>👋 Hello, I'm Vansh Gupta</h1>
+      <p><i>I enjoy designing software that remains maintainable, scalable, and reliable long after the first release.</i></p>
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=480&height=40&lines=Building+Systems+at+Scale;Backend+Architecture+%26+Databases" />
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="Vansh_circle.png" width="180" alt="Vansh Gupta" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Building+Real-World+Systems;Focused+on+AI+%26+Backend" />
+---
+
+### ⚙️ Engineering Principles
+
+*   **Production over prototypes** — Building software designed to run and scale in the real world.
+*   **Scalability first** — Designing database and caching layers that handle high concurrency.
+*   **Clean architecture** — Modular, readable, and highly maintainable codebases.
+*   **Performance conscious** — Minimizing latencies, optimizing queries, and leveraging caching.
+*   **User-centric design** — Tailoring performance to provide an instantaneous user experience.
+
+---
+
+### 🛠️ Featured Systems
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 <a href="https://niedge.vercel.app">NIEdge</a> — Academic Resource Engine</h4>
+      <p><b>Purpose:</b> High-traction student academic resource platform.</p>
+      <p><b>Architecture:</b> Next.js + React + Tailwind CSS + Firebase</p>
+      <ul>
+        <li>✓ <b>1.1K+ active users</b> & <b>27K+ total views</b>.</li>
+        <li>✓ Fully search-optimized and responsive layout.</li>
+        <li>✓ Multitenant architecture with role-based access.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 <a href="https://alphaenginex.vercel.app">AlphaEngineX</a> — Volatility Simulator</h4>
+      <p><b>Purpose:</b> Institution-grade stock market simulator built for concurrency.</p>
+      <p><b>Architecture:</b> React + FastAPI + Redis + MongoDB + Docker</p>
+      <ul>
+        <li>✓ <b>Atomic MongoDB transactions</b> for race-condition-safe orders.</li>
+        <li>✓ <b>UUIDv4 idempotency keys</b> protecting transaction pipelines.</li>
+        <li>✓ <b>APScheduler price updates</b> refreshing volatility every 30s.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗺️ Current Focus & Roadmap
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Currently Building</h4>
+      <ul>
+        <li><b>AlphaEngineX:</b> Scalable transaction pipelines.</li>
+        <li><b>NIEdge:</b> Integrating telemetry & usage analytics.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Currently Learning</h4>
+      <ul>
+        <li>Advanced DSA in <b>Java</b>.</li>
+        <li><b>System Design:</b> Distributed cache invalidation.</li>
+        <li><b>AI Engineering:</b> Multi-agent orchestration.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Engineering Stack
+
+<!-- Languages -->
+<p>
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=36bcf7" />
+</p>
+
+<!-- Frameworks -->
+<p>
+  <img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Vite-1e1e2e?style=for-the-badge&logo=vite&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Express.js-1e1e2e?style=for-the-badge&logo=express&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Flask-1e1e2e?style=for-the-badge&logo=flask&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/WebSockets-1e1e2e?style=for-the-badge&logo=socketdotio&logoColor=36bcf7" />
+</p>
+
+<!-- Databases -->
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Redis-1e1e2e?style=for-the-badge&logo=redis&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Supabase-1e1e2e?style=for-the-badge&logo=supabase&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Firebase-1e1e2e?style=for-the-badge&logo=firebase&logoColor=36bcf7" />
+</p>
+
+<!-- DevOps & Hosting -->
+<p>
+  <img src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/JWT-1e1e2e?style=for-the-badge&logo=jsonwebtokens&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Vercel-1e1e2e?style=for-the-badge&logo=vercel&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Render-1e1e2e?style=for-the-badge&logo=render&logoColor=36bcf7" />
+  <img src="https://img.shields.io/badge/Railway-1e1e2e?style=for-the-badge&logo=railway&logoColor=36bcf7" />
 </p>
 
 ---
 
-## --> About Me 
- 
-Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
- 
-I build production-level systems, not toy projects. [NIEdge](https://niedge.vercel.app) is a student academic resource platform with real traction with **1.1K+ total users, 27K+ views**. [AlphaEngineX](https://alphaenginex.vercel.app) *(currently under development)* is a full-stack stock market simulator engineered for scale with atomic MongoDB transactions, UUIDv4 idempotency for race-condition-safe order processing, demand-driven volatility modeling across 15 companies in 5 sectors, APScheduler-based 30s price updates, per-user rate limiting, admin audit trails, and a 7-collection schema designed for production.
- 
-My focus right now: backend architecture depth, real-time systems, and AI integration.
- 
----
-
-## --> Tech Stack
+### 📊 System Performance & Metrics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react,vite,nodejs,express,fastapi,flask,mongodb,mysql,redis,postgres,docker,git,github,postman,firebase,vercel&perline=11&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh917917&show_icons=true&theme=tokyonight&title_color=36bcf7&icon_color=36bcf7&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Vansh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh917917&layout=compact&theme=tokyonight&title_color=36bcf7&icon_color=36bcf7&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh917917&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=36bcf7&point=36bcf7&area=true" width="97%" />
 </p>
 
 ---
 
-<!--## -- GitHub Stats
+### 📞 Contact & Discussion
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vansh917917&theme=tokyonight&hide_border=true" />
-</p>
-
----
--->
-## --> Contribution Graph 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh917917&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-<!--##Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/vansh917917/vansh917917/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
--->
-## --> Socials
-
-<p align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh___917)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh917)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshg917@gmail.com)
-<!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vansh___917)-->
-
-</p>
-
+<table width="100%" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h4>💡 Always interested in discussing:</h4>
+      <ul>
+        <li>• AI Systems & Agentic Workflows</li>
+        <li>• High-Concurrency Backend Architectures</li>
+        <li>• Distributed Databases & Caching Strategies</li>
+        <li>• Open Source Contributions</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <p>
+        <a href="https://linkedin.com/in/vansh917">
+          <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=36bcf7" alt="LinkedIn" />
+        </a>
+      </p>
+      <p>
+        <a href="https://instagram.com/vansh___917">
+          <img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=36bcf7" alt="Instagram" />
+        </a>
+      </p>
+      <p>
+        <a href="mailto:vanshg917@gmail.com">
+          <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=36bcf7" alt="Email" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
