@@ -75,7 +75,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 ## --> Contribution Graph 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh917917&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh917917&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=36bcf7&point=36bcf7&area=true" width="97%" />
 </p>
 
 ---
