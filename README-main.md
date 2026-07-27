@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Building+Real-World+Systems;Focused+on+AI+%26+Backend" />
 </p>
 
----
+--- 
 
 ## --> About Me 
  
 Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
  
-I build production-level systems, not toy projects. [NIEdge](https://niedge.vercel.app) is a student academic resource platform with real traction with **1.1K+ total users, 27K+ views**. [AlphaEngineX](https://alphaenginex.vercel.app) *(currently under development)* is a full-stack stock market simulator engineered for scale with atomic MongoDB transactions, UUIDv4 idempotency for race-condition-safe order processing, demand-driven volatility modeling across 15 companies in 5 sectors, APScheduler-based 30s price updates, per-user rate limiting, admin audit trails, and a 7-collection schema designed for production.
+I build production-level systems, not toy projects. [NIEdge](https://niedge.vercel.app) is a student academic resource platform with real traction with **1.2K+ total users, 28K+ views**. [AlphaEngineX](https://alphaenginex.vercel.app) *(currently under development)* is a full-stack stock market simulator engineered for scale with atomic MongoDB transactions, UUIDv4 idempotency for race-condition-safe order processing, demand-driven volatility modeling across 15 companies in 5 sectors, APScheduler-based 30s price updates, per-user rate limiting, admin audit trails, and a 7-collection schema designed for production.
  
-My focus right now: backend architecture depth, real-time systems, and AI integration.
+My focus right now: backend architecture depth, real-time systems, and AI integration. More about me and my work at [my portfolio](https://www.vansh917.me).
  
 ---
 
@@ -92,10 +92,10 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 
 <p align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://www.vansh917.me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh___917)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh917)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshg917@gmail.com)
 <!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vansh___917)-->
 
 </p>
-
