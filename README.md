@@ -19,7 +19,7 @@ My focus right now: backend architecture depth, real-time systems, and AI integr
 ## --> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react,vite,nodejs,express,fastapi,flask,mongodb,mysql,redis,postgres,docker,git,github,postman,firebase,vercel&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react,vite,nodejs,express,fastapi,flask,mongodb,mysql,redis,postgres,docker,git,github,postman,firebase,vercel&perline=11&theme=dark"/>
 </p>
 
 <p align="center">
