@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=240&section=header&text=Vansh%20Gupta&fontSize=55&fontAlign=50&fontAlignY=35&fontColor=EAEAEA&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlign=50&descAlignY=60&descColor=D6F0FF)
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Building+Real-World+Systems;Focused+on+AI+%26+Backend" />
 </p>
 
