@@ -20,28 +20,13 @@
 
 ## Featured Systems
 
-### [NIEdge](https://niedge.vercel.app) - Student Academic Resource Platform
-- **Impact:** 1,700+ total users and 32,000+ views across student academic workflows.
-- **Architecture:** Decoupled client communicating with serverless Cloudflare Workers acting as low-latency API routing gateways and Cheerio-based scrapers.
-- **Reliability:** Offline-first PWA with Service Worker asset caching and a sandboxed browser development playground.
-- **Tech Stack:** JavaScript, Cloudflare Workers, Firebase, Service Workers, Cheerio.
+### [NIEdge](https://niedge.vercel.app)
+Student academic resource platform with offline-first capabilities and real-time portal synchronization, serving **1,700+ users** and **32,000+ views**.
+- **Stack:** Cloudflare Workers, Firebase, JavaScript, Service Workers
 
-### [AlphaEngineX](https://alphaenginex.vercel.app) - Algorithmic Market Simulator
-- **Architecture:** Layered Flask backend (`routes` -> `services` -> `repositories`) backed by a 7-collection MongoDB production schema.
-- **Concurrency & Safety:** Atomic MongoDB transactions (`$inc`, `$push`) with UUIDv4 idempotency for race-condition-safe order execution under concurrent spikes.
-- **Market Dynamics:** Demand-driven volatility modeling across 15 assets with APScheduler-driven 2-second price updates, per-user rate limits, and audit trails.
-- **Tech Stack:** Python, Flask, React, MongoDB Atlas, Firebase, Groq API.
-
-### [Lumen](https://lumen.vansh917.me) - Native Desktop AI Client
-- **Architecture:** Multi-process Electron application isolating privileged Node.js APIs from the renderer via a typed, Zod-validated IPC bridge.
-- **State Management:** Partitioned 7-store Zustand state architecture maintaining 60 FPS UI stability during active local LLM token streaming.
-- **Storage & Privacy:** Local SQLite storage in WAL mode via Drizzle ORM, zero cloud telemetry, fully offline inference via Ollama.
-- **Tech Stack:** Electron, TypeScript, React, Zustand, Drizzle ORM, SQLite, Vite, Zod.
-
-### [CrediGraph](https://credigraph.streamlit.app) - Graph-Native Risk & Fraud Intelligence
-- **Modeling:** 2-layer GraphSAGE neural network (0.952 AUC-ROC) evaluating 100,000 counterparties across 4,002,354 relational exposure edges.
-- **Inference Pipeline:** Soft-voting ensemble (XGBoost, Random Forest, GNN) with parallel asynchronous scoring dispatch under 150ms via ThreadPoolExecutor.
-- **Tech Stack:** Python, PyTorch, PyTorch Geometric, XGBoost, Scikit-Learn, Streamlit, NetworkX.
+### [AlphaEngineX](https://alphaenginex.vercel.app) *(In Development)*
+Full-stack stock market simulation platform modeling demand-driven asset volatility, concurrent transactions, and live portfolio tracking.
+- **Stack:** Python, Flask, React, MongoDB
 
 ---
 
