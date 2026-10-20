@@ -4,21 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Building+Production+Systems;AI+Engineering+%26+Backend+Architecture" />
 </p>
 
-<p align="center">
-  <b>Information Science & Engineering</b> at <b>The National Institute of Engineering, Mysuru</b> (2024-2028)<br/>
-  Engineering real-world systems with depth in distributed backends, AI integration, and real-time architectures.
-</p>
-
-<p align="center">
-  <a href="https://www.vansh917.me"><img src="https://img.shields.io/badge/Portfolio-vansh917.me-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vansh917"><img src="https://img.shields.io/badge/LinkedIn-vansh917-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vanshg917@gmail.com"><img src="https://img.shields.io/badge/Email-vanshg917@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/vansh___917"><img src="https://img.shields.io/badge/Instagram-@vansh___917-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-</p>
-
 ---
 
-## Featured Systems
+## --> Featured Systems
 
 ### [NIEdge](https://niedge.vercel.app)
 Student academic resource platform with offline-first capabilities and real-time portal synchronization, serving **1,700+ users** and **32,000+ views**.
@@ -30,7 +18,7 @@ Full-stack stock market simulation platform modeling demand-driven asset volatil
 
 ---
 
-## Technical Competencies
+## --> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,c,java,html,css,react,nextjs,vite,tailwind,nodejs,express,fastapi,flask,electron,postgres,supabase,mongodb,mysql,sqlite,redis,firebase,pytorch,cloudflare,docker,git,github,postman,vercel&perline=15&theme=dark"/>
@@ -110,6 +98,11 @@ Full-stack stock market simulation platform modeling demand-driven asset volatil
 
 ---
 
+## --> Socials
+
 <p align="center">
-  <sub>Engineered by <a href="https://www.vansh917.me">Vansh Gupta</a>. Built for scale, performance, and correctness.</sub>
+  <a href="https://www.vansh917.me"><img src="https://img.shields.io/badge/Portfolio-vansh917.me-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vansh917"><img src="https://img.shields.io/badge/LinkedIn-vansh917-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vanshg917@gmail.com"><img src="https://img.shields.io/badge/Email-vanshg917@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/vansh___917"><img src="https://img.shields.io/badge/Instagram-@vansh___917-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
