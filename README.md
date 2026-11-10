@@ -12,7 +12,7 @@
 Student academic resource platform with offline-first capabilities and real-time portal synchronization, serving **1,700+ users** and **32,000+ views**.
 - **Stack:** Cloudflare Workers, Firebase, JavaScript, Service Workers
 
-### [AlphaEngineX](https://alphaenginex.vercel.app) *(In Development)*
+### [AlphaEngineX](https://alphaenginex.vercel.app) *(Under Development)*
 Full-stack stock market simulation platform modeling demand-driven asset volatility, concurrent transactions, and live portfolio tracking.
 - **Stack:** Python, Flask, React, MongoDB
 
